@@ -16,6 +16,7 @@ if (true) {
 
 
 // bad
+
 const myFunc = ()=>{
     let a = 1;
     const b = 1;
